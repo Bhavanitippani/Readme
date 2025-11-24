@@ -1,0 +1,96 @@
+item_id,restaurant_id,item_name,price,stock
+1,1,"Chicken Biryani",180.00,46
+2,1,"Paneer Butter Masala",150.00,38
+3,2,"Quinoa Salad",120.00,30
+4,3,"Margherita Pizza",300.00,19
+5,3,"Garlic Bread",80.00,58
+6,1,"Chicken Biryani",180.00,50
+7,1,"Paneer Butter Masala",150.00,60
+8,1,"Veg Fried Rice",120.00,70
+9,2,"Caesar Salad",140.00,40
+10,2,"Veg Sandwich",90.00,80
+11,2,"Tomato Soup",80.00,60
+12,3,"Margherita Pizza",300.00,25
+13,3,"Farmhouse Pizza",350.00,20
+14,3,"Garlic Bread",80.00,100
+15,4,"Mutton Biryani",220.00,45
+16,4,"Chicken Curry",180.00,50
+17,4,"Butter Naan",40.00,120
+18,5,"Paneer Tikka",160.00,50
+19,5,"Tandoori Roti",30.00,100
+20,5,"Dal Fry",130.00,70
+21,6,"Mixed Veg Curry",140.00,60
+22,6,"Jeera Rice",100.00,80
+23,6,"Aloo Gobi",120.00,65
+24,7,"Fish Curry",200.00,40
+25,7,"Prawn Biryani",250.00,35
+26,7,"Curd Rice",80.00,90
+27,8,"Chilli Chicken",180.00,50
+28,8,"Fried Rice",120.00,80
+29,8,Manchuria,100.00,70
+30,9,"Idli Sambar",60.00,150
+31,9,"Masala Dosa",80.00,120
+32,9,Vada,50.00,100
+33,10,"Veg Pulao",130.00,60
+34,10,"Paneer Curry",160.00,50
+35,10,"Dal Tadka",120.00,70
+36,11,"Gobi Manchurian",110.00,70
+37,11,"Egg Fried Rice",130.00,60
+38,11,"Lemon Rice",100.00,80
+39,12,"Chicken Lollipop",160.00,50
+40,12,"Mushroom Curry",150.00,55
+41,12,"Butter Chicken",200.00,40
+42,13,"Grilled Fish",230.00,35
+43,13,"Veg Noodles",130.00,70
+44,13,"Sweet Corn Soup",90.00,80
+45,14,"Pasta Alfredo",180.00,50
+46,14,"French Fries",100.00,90
+47,14,"Cheese Burger",150.00,60
+48,15,"Paneer Roll",120.00,70
+49,15,"Veg Burger",100.00,80
+50,15,"Cold Coffee",90.00,100
+51,16,"Mutton Curry",220.00,40
+52,16,"Chicken Kebab",190.00,45
+53,16,Naan,40.00,120
+54,17,"Veg Thali",160.00,60
+55,17,"Curd Rice",80.00,80
+56,17,"Dal Makhani",140.00,70
+57,18,"Veg Pizza",200.00,50
+58,18,"Garlic Bread",80.00,90
+59,18,"Pasta Arrabiata",170.00,40
+60,19,"Fish Fry",210.00,40
+61,19,"Chicken Wings",180.00,50
+62,19,"Veg Soup",90.00,80
+63,20,"Biryani Combo",250.00,45
+64,20,"Paneer Rice",180.00,60
+65,20,"Veg Curry",150.00,70
+66,21,"Egg Curry",140.00,55
+67,21,"Lemon Rice",100.00,90
+68,21,Papad,30.00,150
+69,22,"Fried Chicken",190.00,50
+70,22,"Veg Roll",110.00,70
+71,22,"Cold Drink",60.00,100
+72,23,"Mutton Fry",230.00,40
+73,23,"Chicken Curry",180.00,55
+74,23,"Butter Roti",35.00,100
+75,24,"Veg Fried Rice",120.00,80
+76,24,"Paneer Tikka",160.00,60
+77,24,"Mushroom Rice",140.00,50
+78,25,"Gobi Curry",130.00,70
+79,25,Roti,25.00,100
+80,25,"Curd Rice",80.00,80
+81,26,"Grilled Paneer",160.00,55
+82,26,"Chicken Burger",150.00,60
+83,26,"French Fries",90.00,90
+84,27,"Hot & Sour Soup",100.00,80
+85,27,"Spring Roll",110.00,70
+86,27,"Fried Rice",120.00,60
+87,28,"Chicken Biryani",180.00,50
+88,28,"Mutton Curry",220.00,45
+89,28,"Butter Naan",40.00,100
+90,29,"Veg Noodles",130.00,70
+91,29,"Chilli Paneer",150.00,60
+92,29,"Cold Coffee",90.00,90
+93,30,"South Indian Thali",180.00,60
+94,30,"Curd Rice",90.00,80
+95,30,"Lemon Juice",50.00,100
